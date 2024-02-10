@@ -1,134 +1,14 @@
-<html>
-
-<meta charset="us-ascii">
-
-	<title>Thi_ Pa_____i_at_</title>
-
-	<style class="darkreader darkreader--sync" media="screen" type="text/css">
-
-	</style>
-
-	<style class="darkreader darkreader--sync" media="screen" type="text/css">
-
-	</style>
-
-</head>
-
-<body>
-
-<p>This is @THEANON69 Page &nbsp;
-
-</p><p></p>
-
-<p></p>
 
 
 
-
-
-<p><br>
-
-<title></title>
-
-<style type="text/css">* {overflow: hidden;}
-
-::selection {color: rgb(37, 37, 37);background: rgb(27, 51, 21);}
-
-::-moz-selection {color: rgb(37, 37, 37);background: rgb(27, 51, 21);}
-
-::-webkit-scrollbar{}
-
-::scroll
-
-html {min-height: 100%;}
-
-body {box-sizing: border-box;height: 100%;background-color: #000000;background-image: radial-gradient(#11581E, #041607), url("https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif");background-repeat: no-repeat;background-size: cover;font-family: 'Inconsolata', Helvetica, sans-serif;font-size: 1.5rem;color: rgba(128, 255, 128, 0.8);text-shadow:0 0 1ex rgba(51, 255, 51, 1),0 0 2px rgba(255, 255, 255, 0.8);}
-
-.noise {pointer-events: none;position: absolute;width: 100%;height: 100%;background-image: url("https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif");background-repeat: no-repeat;background-size: cover;z-index: -1;opacity: .02;}
-
-.overlay {pointer-events: none;position: absolute;width: 100%;height: 100%;background:repeating-linear-gradient(180deg,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 0.3) 50%,rgba(0, 0, 0, 0) 100%);background-size: auto 4px;z-index: 1;}
-
-.overlay::before {content: "";pointer-events: none;position: absolute;display: block;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;background-image: linear-gradient(0deg,transparent 0%,rgba(32, 128, 32, 0.2) 2%,rgba(32, 128, 32, 0.8) 3%,rgba(32, 128, 32, 0.2) 3%,transparent 100%);background-repeat: no-repeat;animation: scan 7.5s linear 0s infinite;}
-
-@keyframes scan {0% { background-position: 0 -100vh; }35%, 100% { background-position: 0 100vh; }}
-
-.terminal {box-sizing: inherit;position: absolute;height: 100%;width: 1000px;max-width: 100%;padding: 4rem;text-transform: uppercase;}
-
-.output {color: rgba(128, 255, 128, 0.8);text-shadow:0 0 1px rgba(51, 255, 51, 0.4),0 0 2px rgba(255, 255, 255, 0.8);}
-
-.output::before {content: "> ";}
-
-a {color: #fff;text-decoration: none;}
-
-a::before {content: "[";}
-
-a::after {content: "]";}
-
-.errorcode {color: white;}
-
-</style>
-
-<style class="darkreader darkreader--sync" media="screen" type="text/css">
-
-</style>
-
-</p>
-
-
-
-<div class="noise"></div>
-
-
-
-<div class="overlay"></div>
-
-
-
-<div class="terminal">
 
 <h1>Welcome @THEANON69 Team </h1>
 <p class="output"> COMMANDS FOR DDOS FOR BYPASSING CLOUDFLARE+UAM
 
 <p class="output"> USE IN TERMUX/GOOGLE CLOUD SHELL </p>
 
-<p class="output">git clone https://github.com/Anon69Admin/THEANONYMOUS69</p>
-
-<p class="output">cd THE ANONYMOUS69</p>
-
-<p class="output">npm i requests</p>
-
-<p class="output">npm i https-proxy-agent</p>
-
-<p class="output">npm i crypto-random-string</p>
-
-<p class="output">npm i events</p>
-
-<p class="output">npm i fs</p>
-
-<p class="output">npm i net</p>
-
-
-<p class="output">npm i cloudscraper</p>
-
-
-<p class="output">npm i request</p>
-
-
-<p class="output">npm i hcaptcha-solver</p>
-
-
-<p class="output">npm i randomstring</p>
-
-
-<p class="output">npm i cluster</p>
-
-
-<p class="output">npm i cloudflare-bypasser</p>
-
-
-<p class="output">node UAM.js  https://esample.com/ 60 100 proxy.txt
 </p>
-                     <p class="output">THANKS FOR VISITING </p>
+                     <p class="output">#THANKS FOR VISITING </p>
 
 
 <p class="output">CREATED BY THE @crazy_esx @Axor404 @TeamFxl</p>     
@@ -136,25 +16,12 @@ a::after {content: "]";}
 
 <p class="output">@TeamFxl-contact us&nbsp;<a href="https://t.me/THEANON69"nofollow">Telegram </a></p>
 
-<script>function goBack() {window.history.back();}</script>
 
 
 
-<p class="output">.Hacking and coding power</p>
+
 
 <p class="output">@THEANON69 Wold&nbsp;<a href="https://t.me/THEANON69" rel="nofollow">Join Now </a></p>
 <h1>Welcome</h1>
 <p class="output">@THEANON69&nbsp;<a href="https://t.me/THEANON69" rel="nofollow">@THEANON69</a></p>
-<h1>Welcome the end</h1>
-<script>function myFunction(){var txt;if (confirm("Do you want send an email to\@TeamFxl?")){window.location.href = "fazaleazeemazeem@gmail.com";}}
 
-</script></div>
-
-<script>
-
-
-
-function tb5_makeArray(n){ this.length = n; return this.length;}tb5_messages = new tb5_makeArray(2);tb5_messages[0] = "This Page Private";tb5_messages[1] = "This Page Private";tb5_rptType = 'infinite';tb5_rptNbr = 10;tb5_speed = 50;tb5_delay = 2000;var tb5_counter=1;var tb5_currMsg=0;var tb5_stsmsg="";function tb5_shuffle(arr){var k;for (i=0; i<arr.length; i++){ k = Math.round(Math.random() * (arr.length - i - 1)) + i; temp = arr[i];arr[i]=arr[k];arr[k]=temp;}return arr;}tb5_arr = new tb5_makeArray(tb5_messages[tb5_currMsg].length);tb5_sts = new tb5_makeArray(tb5_messages[tb5_currMsg].length);for (var i=0; i<tb5_messages[tb5_currMsg].length; i++){ tb5_arr[i] = i; tb5_sts[i] = "_";}tb5_arr = tb5_shuffle(tb5_arr);function tb5_init(n){var k;if (n == tb5_arr.length){ if (tb5_currMsg == tb5_messages.length-1){ if ((tb5_rptType == 'finite') && (tb5_counter==tb5_rptNbr)){ clearTimeout(tb5_timerID); return; } tb5_counter++; tb5_currMsg=0; } else{ tb5_currMsg++; } n=0; tb5_arr = new tb5_makeArray(tb5_messages[tb5_currMsg].length); tb5_sts = new tb5_makeArray(tb5_messages[tb5_currMsg].length); for (var i=0; i<tb5_messages[tb5_currMsg].length; i++){ tb5_arr[i] = i; tb5_sts[i] = "_"; } tb5_arr = tb5_shuffle(tb5_arr); tb5_sp=tb5_delay;}else{ tb5_sp=tb5_speed; k = tb5_arr[n]; tb5_sts[k] = tb5_messages[tb5_currMsg].charAt(k); tb5_stsmsg = ""; for (var i=0; i<tb5_sts.length; i++) tb5_stsmsg += tb5_sts[i]; document.title = tb5_stsmsg; n++; } tb5_timerID = setTimeout("tb5_init("+n+")", tb5_sp);}function tb5_randomizetitle(){ tb5_init(0);}tb5_randomizetitle();
-
-</script>
-</body></html>
